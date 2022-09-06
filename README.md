@@ -1,6 +1,5 @@
 # KrunchWebsiteClone
-I made Krunch website clone in like 2-3 days with responsive design.
+<h1>I made Krunch website clone in like 2-3 days with responsive design.</h1>
 <br>
-I cloned https://krunch.webflow.io/ this website.
-<br>
-You can see my website https://jus-dr.github.io/ in this link
+<h2>I cloned https://krunch.webflow.io/ this website.</h2>
+
